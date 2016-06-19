@@ -1,5 +1,5 @@
 grandmean <- function(yd, col_entry, col_yield, selection_n){
-  ##This function creates a dataframe  containing variables Mean, 
+  ##This function creates a dataframe  containing columns Mean, 
   #Mean yield per plant (g) % highest value, Mean/s, % highest value, standard deviation, 
   #(Mean sel-Mean)/s, % highest value, Mean sel and Grand Mean 
   #
